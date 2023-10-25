@@ -1,5 +1,7 @@
-// TODO: Add the required header
-
+// Roan Marius Barreras
+// roanmariuse@csu.fullerton.edu
+// @Roan-Barreras
+// Partners: @Julior150
 #include <iostream>
 #include <string>
 #include <vector>
